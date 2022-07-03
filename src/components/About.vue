@@ -8,15 +8,15 @@ const skills = [
 	},
 	{
 		title: '年級',
-		description: '194天後',
+		description: '194天後要考學測的準高三生',
 	},
 	{
-		title: '運動',
-		description: '跑步、打籃球',
+		title: '興趣',
+		description: '跑步、打籃球、Coding',
 	},
 	{
-		title: '煮飯',
-		description: '煮出美味佳餚',
+		title: '想學的東西',
+		description: '煮飯、吉他、Coding',
 	},
 ]
 </script>
