@@ -12,7 +12,7 @@ const skills = [
 	},
 	{
 		title: '興趣',
-		description: '跑步、打籃球、Coding',
+		description: '跑步、打籃球      ',
 	},
 	{
 		title: '想學的東西',
